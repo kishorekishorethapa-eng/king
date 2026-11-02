@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Kishore",
+      "job": "Game Developer"
+    },
+    {
+      "id": "2",
+      "name": "Rahul",
+      "job": "Developer"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

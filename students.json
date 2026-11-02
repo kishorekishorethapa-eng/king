@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Kishore raj",
+      "email": "kishore@gmail.com",
+      "age": 22,
+      "city": "Bangalore"
+    },
+    {
+      "id": "2",
+      "name": "Karthik",
+      "email": "karthik@gmail.com",
+      "age": 23,
+      "city": "Mysore"
+    },
+    {
+      "id": "3",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "age": 21,
+      "city": "Chennai"
+    },
+    {
+      "id": "4",
+      "name": "luffy",
+      "email": "luffy@gmail.com",
+      "age": 19,
+      "city": "Japan"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
