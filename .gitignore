@@ -1,0 +1,5 @@
+target/
+test-output/
+*.log
+jdk-21_windows-x64_bin.exe
+selenium-server-4.49.0.jar
